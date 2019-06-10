@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
+### Information
 
 A Computer science fella with too much time to think.
 
