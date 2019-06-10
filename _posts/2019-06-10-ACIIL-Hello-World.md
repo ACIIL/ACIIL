@@ -1,13 +1,6 @@
-
-
 ---
-
 layout: post
-
-  
-
 title: First post best post!
-
 ---
 
   
