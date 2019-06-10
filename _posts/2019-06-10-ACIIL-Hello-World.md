@@ -66,12 +66,13 @@ Looks like MarkdownViewerPlusPlus for notepad++ can work. Got some online pages 
 
 Eh? Works i guess. 
 
-#### Link forma test:
+#### Link format test:
 <https://www.google.com>
 #### Code Blocks?
 ```
 color = max(0, color);
 ```
+
 #### Quote test:
 
 > Giant quote about about societies need to wage cage yet we really should us that time to self improve instead of buying 3 expensive houses and boats.
